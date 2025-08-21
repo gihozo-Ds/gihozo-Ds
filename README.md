@@ -1,8 +1,8 @@
-# 👋 Hi, I'm Cristian Gihozo  
+# 👋 Hi, I'm Christian Gihozo  
 
 ✨ *I turn data into insights* ✨  
 
-🎓 **Statistics Student | Aspiring Data Analyst | Data Enthusiast**  
+🎓 **Statistics Student | Aspiring Data Scientist**  
 📍 Based in Rwanda  
 
 ---
