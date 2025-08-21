@@ -13,7 +13,7 @@
 
 ## 🚀 About Me  
 - 📊 I’m a 3rd-year Statistics student passionate about **data science and AI**.    
-- 🌍 Interested in how data can solve **real-world business and social problems**.  
+- 🌍 Interested in how data can solve **real-world problems**.  
 
 ---
 
