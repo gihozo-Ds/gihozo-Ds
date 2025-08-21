@@ -14,12 +14,17 @@
 
 ---
 
-## 🛠️ Skills & Tools  
-- **Programming:** Python, R, MATLAB  
-- **Data Analysis:** pandas, NumPy, tidyverse  
-- **Visualization:** Matplotlib, Seaborn, ggplot2, Dash Plotly, streamlit
-- **Other Tools:** SQL, Excel, Google Colab, JupyterLab  
-- **Languages:** English, Kinyarwanda  
+## Tech & Tools
+
+- :snake: Python
+- :arrow_up: TensorFlow
+- :fire: PyTorch
+- :bar_chart: Pandas
+- :chart_with_upwards_trend: scikit-learn
+- :octocat: Git
+- :whale: Docker
+- :speaker: Text-to-Speech
+- :robot_face: HuggingFace
 
 ---
 
