@@ -16,15 +16,13 @@
 
 ## Tech & Tools
 
-[![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python)](https://www.python.org/)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=tensorflow)](https://www.tensorflow.org/)
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=pytorch)](https://pytorch.org/)
-[![Pandas](https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas)](https://pandas.pydata.org/)
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E.svg?style=for-the-badge&logo=scikit-learn)](https://scikit-learn.org/)
-[![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git)](https://git-scm.com/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker)](https://www.docker.com/)
-[![Text-to-Speech](https://img.shields.io/badge/Text--to--Speech-000000.svg?style=for-the-badge)](https://example.com/text-to-speech) <!-- Replace with actual link -->
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-FF6F61.svg?style=for-the-badge&logo=huggingface)](https://huggingface.co/)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&style=flat-square)](https://www.python.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&style=flat-square)](https://pandas.pydata.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&style=flat-square)](https://numpy.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&style=flat-square)](https://matplotlib.org/)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&style=flat-square)](https://scikit-learn.org/)
+[![Dash](https://img.shields.io/badge/Dash-FF6F61?logo=plotly&style=flat-square)](https://dash.plotly.com/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&style=flat-square)](https://streamlit.io/)
 
 
 ---
