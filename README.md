@@ -1,8 +1,10 @@
 # 👋 Hi, I'm Christian Gihozo  
 
-    # What I do 🤷🏽‍♂️ 
+ **What I do** 🤷🏽‍♂️ 
 
-✨ *I turn data into insights* ✨  
+✨ *I turn data into insights* ✨ 
+
+**More info**
 
 🎓 **Statistics Student | Aspiring Data Scientist**  
 📍 Based in Rwanda  
@@ -10,8 +12,7 @@
 ---
 
 ## 🚀 About Me  
-- 📊 I’m a 3rd-year Statistics student passionate about **data science and AI**.  
-- 💻 Experienced with **Python, R, and SQL** for data exploration and insights.  
+- 📊 I’m a 3rd-year Statistics student passionate about **data science and AI**.    
 - 🌍 Interested in how data can solve **real-world business and social problems**.  
 
 ---
