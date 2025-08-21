@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Christian Gihozo  
 
+    # What I do 🤷🏽‍♂️ 
+
 ✨ *I turn data into insights* ✨  
 
 🎓 **Statistics Student | Aspiring Data Scientist**  
