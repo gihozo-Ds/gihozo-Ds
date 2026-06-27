@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Christian Gihozo  
+# 👋 Hi, I'm Gihozo Christian
 
  **What I do** 🤷🏽‍♂️ 
 
